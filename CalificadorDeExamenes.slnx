@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CalificadorDeExamenes/CalificadorDeExamenes.vcxproj" Id="8a0f46f9-7a32-4780-aa47-5300729af695" />
+</Solution>
