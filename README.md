@@ -1,1 +1,0 @@
-# ProyectoTecnicasInterpretaci-nAvanzadas
